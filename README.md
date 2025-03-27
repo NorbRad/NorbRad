@@ -1,26 +1,6 @@
 # 👋 Hi, I'm Norbert!
 
 ## 🛠️ About Me
-I'm a Data Scientist working on implementing artificial intelligence in the steel industry.
-I'm a tech enthusiast who loves automating processes, exploring AI, and building modern solutions. I work daily with Python and Azure DevOps, focusing on automation, compilation, and application security.
-
-## 🚀 Technologies I Use
-- **Python** 🐍
-- **Linux** 🐧 
-- **Azure DevOps** 
-- **PostgreSQL** 📊
-
-## 📡 My Projects
-- 🌍 **Flask API** 
-- 🤖 **AI Agent** 
-- 🔄 **Automation in Azure DevOps**
-
-## 🔍 Currently Exploring
-- **RAG (Retrieval-Augmented Generation)** 
-- **AI Agent Management** 
-- **IoT & Hardware** # 👋 Hi, I'm Norbert!
-
-## 🛠️ About Me
 I'm a **Data Scientist** specializing in AI applications and industrial automation.  
 I have experience in **machine learning, cloud computing, and data engineering**, focusing on optimizing processes in manufacturing and production environments.  
 
@@ -42,5 +22,5 @@ I have experience in **machine learning, cloud computing, and data engineering**
 
 ## 📫 Contact
 Want to discuss AI, DevOps, or Data Science? Feel free to reach out!  
-🔗 [LinkedIn](https://www.linkedin.com/in/norbert-raducki-a2036b195/)  
 
+🔗 [LinkedIn](https://www.linkedin.com/in/norbert-raducki-a2036b195/)  
