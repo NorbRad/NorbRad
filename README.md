@@ -2,7 +2,7 @@
 
 ## 🛠️ About Me
 I'm an **AI Developer and Data Scientist** building end-to-end AI solutions for industry: predictive models, production optimization and LLM agents integrated with ERP-class systems.  
-I have a master's degree in engineering (**AGH**) and hands-on experience across **machine learning, backend development, cloud and DevOps**. Outside my day job, I develop the backend of an application at the Spichlerz Foundation and run my own homelab with locally hosted AI models.  
+I have a hands-on experience across **machine learning, backend development, cloud and DevOps**. Outside my day job, I develop the backend of an application at the Spichlerz Foundation and run my own homelab with locally hosted AI models.  
 
 ## 🚀 Technologies I Use
 - **Programming & Backend**: Python 🐍, SQL, Bash, MATLAB, FastAPI, SQLAlchemy, Alembic, Pydantic  
